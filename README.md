@@ -1,8 +1,16 @@
-# Olá 👋, sou Biólogo com `Ph.D` em biologia animal e vegetal com enfase em análise de dados 
+<h1 align="center"> Olá 👋, sou Biólogo | Ecológo e Pesquisador</h1>
 
-#### Minha formação é baseada em Macroecologia de Espécies Invasoras 🛸 e Modelos de Adequação de Habitats 🖳 e meu trabalho é agregar diferentes fontes de dados ecológicas para elaborar modelos estatísticos que aprimorem o conhecimento sobre ecologia, evolução e conservação da Biodiversidade. 
-Interessado no uso de algoritmos de aprendizagem de máquina para desenvolver aplicações quantitativas de síntese de evidências aplicadas à biodiversidade, conservação e mudanças climáticas.
-Este repositório é usado como um portfólio para armazenar meus projetos em andamento e compartilhar minhas análises concluídas.
+<p align="center"> Ph.D em biologia animal e vegetal com ênfase em análise de dados</p>
+
+<br> 
+
+<div align="justify">
+Minha formação é baseada em Macroecologia de Espécies Introduzidas e Modelos estatísticos de Adequação de Habitat. No momento, minha atuo no desenvolvimento de estratégias para agregar diferentes fontes de dados ecológicas e elaborar modelos    estatísticos que aprimorem o conhecimento sobre <code>ecologia</code>, <code>evolução</code> e <code>conservação da Biodiversidade</code>. Me interessado no uso de <code>algoritmos de aprendizagem de máquina</code> para desenvolver estratégias  <code>teóricas</code> e <code>aplicadas</code> para <code>avaliação quantitativa</code> e <code>síntese de evidências</code> na biodiversidade.
+</div>
+
+<br>
+
+Este repositório é usado como um portfólio para armazenar projetos e compartilhar informações.
 
 ### Lista de Artigos publicados até o momento
 |Nome do estudo| Ano de publicação |
