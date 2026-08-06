@@ -15,6 +15,7 @@ Este repositório é usado como um portfólio para armazenar projetos e comparti
 ### Lista de Artigos publicados até o momento
 |Nome do estudo| Ano de publicação |
 |:----------------:|:-------------:|
+|[Contrasting Forest Trajectories Drive Changes in Bird Functional Traits](https://doi.org/10.1111/jbi.702)|2026|
 |[Assessing the current distribution and potential habitat availability for Kaempfer's tody-tyrant: a restricted-range and threatened species from the Atlantic Rainforest](https://doi.org/10.1002/wlb3.01422)|2025| 
 |[Economic costs of invasive non-native species in urban areas: An underexplored financial drain](https://doi.org/10.1016/j.scitotenv.2024.170336)|2024|
 |[Current patterns of non-native vertebrate introductions in Brazil: introduction pathways and the contribution of niche dynamics in understanding the invasion process](https://doi.org/10.1007/s10530-023-03134-z)|2023|
